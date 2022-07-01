@@ -1,1 +1,0 @@
-# QuizApp-GraphQL-With-Django
